@@ -1,0 +1,12 @@
+C:\Users\arviu\Documents\GitHub\SiuntosRN\SiuntosRN\SiuntosRN\bin\Debug\SiuntosRN.exe.config
+C:\Users\arviu\Documents\GitHub\SiuntosRN\SiuntosRN\SiuntosRN\bin\Debug\SiuntosRN.exe
+C:\Users\arviu\Documents\GitHub\SiuntosRN\SiuntosRN\SiuntosRN\bin\Debug\SiuntosRN.pdb
+C:\Users\arviu\Documents\GitHub\SiuntosRN\SiuntosRN\SiuntosRN\obj\Debug\SiuntosRN.csprojAssemblyReference.cache
+C:\Users\arviu\Documents\GitHub\SiuntosRN\SiuntosRN\SiuntosRN\obj\Debug\SiuntosRN.Form1.resources
+C:\Users\arviu\Documents\GitHub\SiuntosRN\SiuntosRN\SiuntosRN\obj\Debug\SiuntosRN.CreateNewItemForm.resources
+C:\Users\arviu\Documents\GitHub\SiuntosRN\SiuntosRN\SiuntosRN\obj\Debug\SiuntosRN.Properties.Resources.resources
+C:\Users\arviu\Documents\GitHub\SiuntosRN\SiuntosRN\SiuntosRN\obj\Debug\SiuntosRN.csproj.GenerateResource.cache
+C:\Users\arviu\Documents\GitHub\SiuntosRN\SiuntosRN\SiuntosRN\obj\Debug\SiuntosRN.csproj.CoreCompileInputs.cache
+C:\Users\arviu\Documents\GitHub\SiuntosRN\SiuntosRN\SiuntosRN\obj\Debug\SiuntosRN.exe
+C:\Users\arviu\Documents\GitHub\SiuntosRN\SiuntosRN\SiuntosRN\obj\Debug\SiuntosRN.pdb
+C:\Users\arviu\Documents\GitHub\SiuntosRN\SiuntosRN\SiuntosRN\obj\Debug\SiuntosRN.SiuntaForm.resources

@@ -29,11 +29,11 @@ namespace SiuntosRN
             {
                 Dydis = 1;
             }
-            else if (a >5 || a <=15)
+            else if (a >5 && a <=15)
             {
                 Dydis = 2;
             }
-            else
+            else if(a>15)
             {
                 Dydis = 3;
             }            
